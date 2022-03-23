@@ -19,7 +19,7 @@ Validation Accuracy: 93.762%
 ## Learning Curves
 The training process continues for 20 epochs, each with 265 iterations. The ultimate training accuracy has been found to be 96.82%. It could be observed that the validation process also follows the same curve with an end accuracy of 93.76%. These accuracies have been accomplished with an input image of size 256×256 pixels. With the highest loss of 1.0210 during first epoch, the classifier has managed to minimize it up to 0.1292 at the end of 20th epoch.
 <p align="center">
-  <img src="https://github.com/rimshasaeed/Clothing-Classification/blob/main/results/performance.jpg", alt="learning curves" width="50%" height="50%">
+  <img src="https://github.com/rimshasaeed/Clothing-Classification/blob/main/results/performance.jpg", alt="learning curves" width="60%" height="60%">
 </p>
 
 ## Performance
@@ -29,5 +29,5 @@ Model performance on unseen images has been found to be quite impressive.
 Test Accuracy: 89.75%
 ```
 <p align="center">
-  <img src="https://github.com/rimshasaeed/Clothing-Classification/blob/main/results/classification%20report.jpg", alt="classification report" width="60%" height="60%">
+  <img src="https://github.com/rimshasaeed/Clothing-Classification/blob/main/results/classification%20report.jpg", alt="classification report" width="70%" height="75%">
 </p>
